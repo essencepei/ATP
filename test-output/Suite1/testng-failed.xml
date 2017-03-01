@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite1]">
+  <test name="金融产品(failed)">
+    <classes>
+      <class name="SCM.TestCase.logintest">
+        <methods>
+          <include name="main"/>
+        </methods>
+      </class> <!-- SCM.TestCase.logintest -->
+    </classes>
+  </test> <!-- 金融产品(failed) -->
+</suite> <!-- Failed suite [Suite1] -->

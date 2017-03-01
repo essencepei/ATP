@@ -1,0 +1,4 @@
+<config>
+	<browser>chrome</browser><!--can config ie firefox chrome-->
+	<test-interface>com.test.interfacedemo.InterfaceDemo2</test-interface>
+</config>

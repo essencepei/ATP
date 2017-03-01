@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="14714" started-at="2017-02-04T02:54:03Z" finished-at="2017-02-04T02:54:18Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="14714" started-at="2017-02-04T02:54:03Z" finished-at="2017-02-04T02:54:18Z">
+      <class name="SCM.back.TestCase.Client">
+        <test-method status="PASS" signature="Init()[pri:0, instance:SCM.back.TestCase.Client@63d587bf]" name="Init" is-config="true" duration-ms="8298" started-at="2017-02-04T10:54:03Z" finished-at="2017-02-04T10:54:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Init -->
+        <test-method status="PASS" signature="CompareFirstClient()[pri:0, instance:SCM.back.TestCase.Client@63d587bf]" name="CompareFirstClient" duration-ms="824" started-at="2017-02-04T10:54:11Z" finished-at="2017-02-04T10:54:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CompareFirstClient -->
+        <test-method status="PASS" signature="DuoResult()[pri:0, instance:SCM.back.TestCase.Client@63d587bf]" name="DuoResult" duration-ms="1669" started-at="2017-02-04T10:54:12Z" finished-at="2017-02-04T10:54:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DuoResult -->
+        <test-method status="PASS" signature="three()[pri:0, instance:SCM.back.TestCase.Client@63d587bf]" name="three" duration-ms="2482" started-at="2017-02-04T10:54:14Z" finished-at="2017-02-04T10:54:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- three -->
+        <test-method status="PASS" signature="logout()[pri:0, instance:SCM.back.TestCase.Client@63d587bf]" name="logout" is-config="true" duration-ms="1411" started-at="2017-02-04T10:54:16Z" finished-at="2017-02-04T10:54:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+      </class> <!-- SCM.back.TestCase.Client -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
